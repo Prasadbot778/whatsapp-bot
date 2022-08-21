@@ -1,5 +1,5 @@
 {
-	"name": "Deploy",
+	"name": "prasad",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
@@ -74,7 +74,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "prasad",
             "required": true
              
         }
